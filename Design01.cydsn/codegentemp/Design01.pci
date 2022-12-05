@@ -1,0 +1,19 @@
+# Design01
+# 2022-12-05 09:23:42Z
+
+# IO_2@[IOP=(3)][IoId=(2)] is reserved: SWDDebugEnabled
+dont_use_io iocell 3 2
+# IO_3@[IOP=(3)][IoId=(3)] is reserved: SWDDebugEnabled
+dont_use_io iocell 3 3
+dont_use_location cancell -1 -1 0
+dont_use_location cancell -1 -1 1
+dont_use_location LCD -1 -1 0
+dont_use_location lcdctrlcell -1 -1 0
+dont_use_location m0s8lcdcell -1 -1 0
+dont_use_location p4csdcell -1 -1 0
+dont_use_location p4csdcell -1 -1 1
+set_location "ClockGenBlock" m0s8clockgenblockcell -1 -1 0
+set_io "Pin_1(0)" iocell 0 6
+set_io "Pin_Switch(0)" iocell 0 7
+set_io "\UART:tx(0)\" iocell 7 1
+set_io "\UART:rx(0)\" iocell 7 0

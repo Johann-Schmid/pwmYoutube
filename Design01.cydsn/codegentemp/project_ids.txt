@@ -1,0 +1,7 @@
+C:\Users\LocalAdmin\Documents\PSoC Creator\pwmYoutube\Design01.cydsn\Design01.cyprj|1274a682-3fc0-4f90-ac9d-6d1cef14ee37
+D:\Program Files (x86)\Cypress\PSoC Creator\4.3\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|8df2db88-7318-43ab-aad7-5cae9b726eab
+C:\Users\LocalAdmin\Documents\PSoC Creator\4.3\Downloads ( 4.3).cylib\Downloads ( 4.3).cyprj|ed75bf98-e4f3-4e70-9b1d-6900a0364391
+D:\Program Files (x86)\Cypress\PSoC Creator\4.3\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|494818f3-5f86-481d-89e0-44c6af9543ae
+D:\Program Files (x86)\Cypress\PSoC Creator\4.3\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|d70d703d-ff62-4174-a95f-6e9cbf50fec7
+D:\Program Files (x86)\Cypress\PSoC Creator\4.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|fe4eeaf9-2234-47a5-a3ff-fb795f20f2c2
+C:\Users\LocalAdmin\Documents\PSoC Creator\pwmYoutube\CE224593_PSoC4_PWM_LED_RateSwap01.cydsn\CE224593_PSoC4_PWM_LED_RateSwap01.cyprj|d132da3c-f2a5-46a3-ad86-996d03cd91f4
