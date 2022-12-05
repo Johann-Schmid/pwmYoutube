@@ -24,10 +24,7 @@ CY_ISR(TC_ISR_Handler)
 {
     /* Interrupt is cleared */ 
 
-    
     interrupt = True;
-
-   
     
     PWM_ClearInterrupt(PWM_INTR_MASK_TC);
 
@@ -46,7 +43,6 @@ CY_ISR(TC_ISR_Handler)
 *******************************************************************************/
 int main(void)
 {
-    int num = 123;
     char str[6];
     uint16 counter;
     
